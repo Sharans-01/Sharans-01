@@ -1,5 +1,5 @@
 
-<img src="https://th.bing.com/th/id/OIP.2bTYNIUUzctTlzCS3jiDPAAAAA?rs=1&pid=ImgDetMain" alt="Banner" style="width: 100%; height: auto; border-radius: 8px;"/>
+<img src="https://th.bing.com/th/id/OIP.2bTYNIUUzctTlzCS3jiDPAAAAA?rs=1&pid=ImgDetMain" alt="Bannerimg" style="width: 100%; height: auto; border-radius: 8px;"/>
 
 <h1 align="center">Hi 👋, I'm Sharan</h1>
 <h3 align="center">A Passionate Frontend and Python Developer from India</h3>
