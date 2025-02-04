@@ -2,7 +2,7 @@
 <img src="https://github.com/Sharans-01/Github_banner/blob/main/Github%20Banner.jpg?raw=true" alt="Bannerimg" style="width: 100%; height: auto; border-radius: 8px;"/>
 
 <h1 align="center">Hi 👋, I'm Sharan</h1>
-<h3 align="center">A Passionate Frontend and Python Developer from India</h3>
+<h3 align="center">A Passionate Frontend and Python Developer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
 
