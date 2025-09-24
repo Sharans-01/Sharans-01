@@ -10,11 +10,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharans-01&label=Profile%20views&color=0e75b6&style=flat" alt="sharans-01" /> </p>
 
 
-- 🔭 I’m currently working on **project "Real time chat application"**
-
-- 🌱 I’m currently learning **React JS, Node JS, Mongo DB**
-
-- 📫 How to reach me **sharan.rs0103@gmail.com**
+- 🔭 I’m currently working on **Real-Time Chat Application**  
+- 🌱 I’m currently learning **React JS, Node.js, MongoDB**  
+- 💡 Exploring **Python, Full-Stack Development & AI-Powered Solutions**
+ 
+- 📫 Reach me **sharan.rs0103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
